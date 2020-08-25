@@ -1,14 +1,14 @@
-# Hello There! I'm [routerabfrage][Website], A Developer, Influencer and gamer
+# Hallo👋, Ich bin [routerabfrage][Website]!
 ![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
-## Currently Learning
+## ⚡Programmiersprachen
 - Java
 - JavaScript
 - CSS
 - HTML
 - PHP
-- C#
+- C# (selten)
 
-## Communication
+## Social Media
 - Discord: routerabfrage#3287
 - Twitter: [@routerabfrage][Twitter]
 
@@ -16,8 +16,6 @@
 
 [Website]: https://routerabfrage.net/
 [Twitter]: https://twitter.com/routerabfrage
-
-[MCPDownloadLink]: https://modcoderpack.com/
 <!--
 **routerabfrage/routerabfrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
