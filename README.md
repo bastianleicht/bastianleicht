@@ -1,6 +1,6 @@
 # Hallo 👋, Ich bin [routerabfrage][Website]!
 ![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
-##⚡ Programmiersprachen
+## ⚡ Programmiersprachen
 - Java
 - JavaScript
 - CSS
@@ -8,10 +8,10 @@
 - PHP
 - C# (selten)
 
-##📑 Derzeitige Projekte
+## 📑 Derzeitige Projekte
 - Keine Öffentlichen
 
-##🤖 Social Media
+## 🤖 Social Media
 - Discord: routerabfrage#3287
 - Twitter: [@routerabfrage][Twitter]
 
