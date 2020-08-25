@@ -1,6 +1,6 @@
 # Hallo 👋, Ich bin [routerabfrage][Website]!
 [![routerabfrage's GitHub Stats](https://github-readme-stats.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
+[![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)]
 ## ⚡ Programmiersprachen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routerabfrage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
