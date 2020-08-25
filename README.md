@@ -1,12 +1,8 @@
 # Hallo 👋, Ich bin [routerabfrage][Website]!
 ![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
+[![routerabfrage's GitHub Stats](https://github-readme-stats.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## ⚡ Programmiersprachen
-- Java
-- JavaScript
-- CSS
-- HTML
-- PHP
-- C# (selten)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routerabfrage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📑 Derzeitige Projekte
 - Keine Öffentlichen
@@ -15,8 +11,8 @@
 - Discord: routerabfrage#3287
 - Twitter: [@routerabfrage][Twitter]
 
-[![routerabfrage's GitHub Stats](https://github-readme-stats.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routerabfrage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [Website]: https://routerabfrage.net/
 [Twitter]: https://twitter.com/routerabfrage
