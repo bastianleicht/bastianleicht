@@ -8,6 +8,9 @@
 - PHP
 - C# (selten)
 
+## Derzeitige Projekte
+- Keine Öffentlichen
+
 ## Social Media
 - Discord: routerabfrage#3287
 - Twitter: [@routerabfrage][Twitter]
