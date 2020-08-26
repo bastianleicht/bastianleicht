@@ -18,18 +18,15 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="routerabfrage's GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
-
 </details>
 
 
