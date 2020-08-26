@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="routerabfrage's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
+  <img align="left" alt="routerabfrage's GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
 
 </details>
 
