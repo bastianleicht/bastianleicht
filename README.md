@@ -19,6 +19,8 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#8](https://github.com//TcNobo/TcNo-Acc-Switcher/issues/8) in [TcNobo/TcNo-Acc-Switcher](https://github.com//TcNobo/TcNo-Acc-Switcher)
+2. ❗️ Opened issue [#8](https://github.com//TcNobo/TcNo-Acc-Switcher/issues/8) in [TcNobo/TcNo-Acc-Switcher](https://github.com//TcNobo/TcNo-Acc-Switcher)
 <!--END_SECTION:activity-->
 </details>
 
