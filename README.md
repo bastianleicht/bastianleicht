@@ -6,7 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routerabfrage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📑 Derzeitige Projekte
-![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
 - Keine Öffentlichen
 
 ## 🤖 Social Media
@@ -18,6 +17,7 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
+  ![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage)
   
 <!--START_SECTION:activity-->
 
