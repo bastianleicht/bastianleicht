@@ -16,6 +16,9 @@
 <br />
 - Discord: routerabfrage#3287
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
