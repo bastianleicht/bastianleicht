@@ -15,10 +15,10 @@
 [<img align="left" alt="routerabfrage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <br/>
 - Discord: routerabfrage#3287
-
+---
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+---
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
