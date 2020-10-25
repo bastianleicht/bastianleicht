@@ -18,9 +18,6 @@
 <br/>
 - Discord: routerabfrage#0001
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
@@ -33,6 +30,10 @@
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="routerabfrage's GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
+</details>
+<details>
+  <summary>:zap: Code Activity</summary>
+  <img src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/48b0cfb8-a527-4812-ac0b-e94bc8e87a0b.svg" />
 </details>
 
 
