@@ -33,7 +33,7 @@
 </details>
 <details>
   <summary>:zap: Code Activity</summary>
-  <img src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/48b0cfb8-a527-4812-ac0b-e94bc8e87a0b.svg" />
+  <img src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />
 </details>
 
 
