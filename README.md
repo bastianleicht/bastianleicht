@@ -31,6 +31,7 @@
 
   <img align="left" alt="routerabfrage's GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
 </details>
+
 <details>
   <summary>:zap: Code Activity</summary>
   <img src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />
@@ -38,5 +39,5 @@
 
 
 [Website]: https://routerabfrage.net/
-[Twitter]: https://twitter.com/routerabfrage
+[Twitter]: https://twitter.com/bastianleicht
 [YouTube]: https://www.youtube.com/channel/UC4VaxYHtASz2fAS2BDrBydg
