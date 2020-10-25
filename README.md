@@ -33,7 +33,12 @@
 
 <details>
   <summary>:zap: Code Activity</summary>
-  <img src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />
+  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />
+</details>
+
+<details>
+  <summary>:zap: Languages</summary>
+  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/e8dee5b6-cd7d-4852-af13-af907fd56af4.svg"" height="400" />
 </details>
 
 
