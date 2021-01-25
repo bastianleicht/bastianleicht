@@ -22,8 +22,8 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/TcNobo/TcNo-Acc-Switcher/issues/8) in [TcNobo/TcNo-Acc-Switcher](https://github.com/TcNobo/TcNo-Acc-Switcher)
-2. ❗️ Opened issue [#8](https://github.com/TcNobo/TcNo-Acc-Switcher/issues/8) in [TcNobo/TcNo-Acc-Switcher](https://github.com/TcNobo/TcNo-Acc-Switcher)
+1. 🎉 Merged PR [#1](https://github.com/routerabfrage/Server-Status/pull/1) in [routerabfrage/Server-Status](https://github.com/routerabfrage/Server-Status)
+2. 💪 Opened PR [#1](https://github.com/routerabfrage/Server-Status/pull/1) in [routerabfrage/Server-Status](https://github.com/routerabfrage/Server-Status)
 <!--END_SECTION:activity-->
 </details>
 
