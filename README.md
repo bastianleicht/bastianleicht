@@ -43,6 +43,6 @@
 </details>
 
 [Archive]: https://github.com/routerabfrageNET
-[Website]: https://routerabfrage.net/
+[Website]: https://bastianleicht.com/
 [Twitter]: https://twitter.com/bastianleicht
 [YouTube]: https://www.youtube.com/channel/UC4VaxYHtASz2fAS2BDrBydg
