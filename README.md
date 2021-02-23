@@ -22,8 +22,8 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient/issues/66) in [OxideWaveLength/Minecraft-Hack-BaseClient](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)
-2. 🎉 Merged PR [#1](https://github.com/routerabfrage/Server-Status/pull/1) in [routerabfrage/Server-Status](https://github.com/routerabfrage/Server-Status)
+1. 🎉 Merged PR [#1](https://github.com/routerabfrage/DiscordJS-Bot-Base/pull/1) in [routerabfrage/DiscordJS-Bot-Base](https://github.com/routerabfrage/DiscordJS-Bot-Base)
+2. 🗣 Commented on [#66](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient/issues/66) in [OxideWaveLength/Minecraft-Hack-BaseClient](https://github.com/OxideWaveLength/Minecraft-Hack-BaseClient)
 <!--END_SECTION:activity-->
 </details>
 
