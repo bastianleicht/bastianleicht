@@ -17,7 +17,7 @@
 [<img align="left" alt="routerabfrage | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
 [<img align="left" alt="routerabfrage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <br/>
-- Discord: routerabfrage#0001
+- Discord: Bastian L.#8551
 ---
 <details>
   <summary>:zap: Recent Github Activity</summary>
