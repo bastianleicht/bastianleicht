@@ -39,7 +39,7 @@
 
 <details>
   <summary>:zap: Languages</summary>
-  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/10b37f85-4fca-4b20-a33e-d81870d9dcca.svg" height="400" />
+  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/b0eba8ff-2de8-4b40-929e-8c7a97a106f9.svg" height="400" />
 </details>
 
 [Archive]: https://github.com/routerabfrageNET
