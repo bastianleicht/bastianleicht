@@ -1,6 +1,6 @@
 # Hallo, Ich bin Basti - aka [routerabfrage][Website]👋
 [![Website](https://img.shields.io/website?label=bastianleicht.com&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.com)](https://bastianleicht.com)
-[![Website](https://img.shields.io/website?label=routerabfrage.net&style=for-the-badge&url=https%3A%2F%2Frouterabfrage.net)](https://routerabfrage.net)
+[![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frouterabfrage&screen_name=bastianleicht)
 <br/>
 ![routerabfrage's Profile Views](https://komarev.com/ghpvc/?username=routerabfrage&style=flat-square)
@@ -17,7 +17,10 @@
 [<img align="left" alt="routerabfrage | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][YouTube]
 [<img align="left" alt="routerabfrage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <br/>
-- Discord: routerabfrage#0001
+- Discord: Bastian L.#8551
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -39,7 +42,12 @@
 
 <details>
   <summary>:zap: Languages</summary>
-  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/e8dee5b6-cd7d-4852-af13-af907fd56af4.svg"" height="400" />
+  <img align="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/b0eba8ff-2de8-4b40-929e-8c7a97a106f9.svg" height="400" />
+</details>
+
+<details>
+  <summary>:zap: Insgesamte Sprachen</summary>
+  <img aling="left" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/d328c553-68a8-4426-974c-be045b324309.svg" height="400" />
 </details>
 
 [Archive]: https://github.com/routerabfrageNET
