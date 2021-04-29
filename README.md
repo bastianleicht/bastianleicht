@@ -14,9 +14,9 @@
 
 <h3>Verbinde dich mit mir: </h3>
 
-[<img align="left" alt="Webseite" width="25px" style="margin-right: 5px; margin-top: -4px" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Website.svg" />][Website]
+[<img align="left" alt="Webseite" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Website.svg" />][Website]
 [<img align="left" alt="Twitter" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Twitter_2012.svg" />][Twitter]
-[<img align="left" alt="Stackoverflow" width="20px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/stackoverflow-512.png" />][Stackoverflow]
+[<img align="left" alt="Stackoverflow" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/stackoverflow-512.png" />][Stackoverflow]
 <br>
 
 ---
