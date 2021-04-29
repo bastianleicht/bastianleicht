@@ -19,6 +19,9 @@
 <br/>
 - Discord: Bastian L.#8551
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 <details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
