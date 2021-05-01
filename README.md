@@ -9,10 +9,7 @@
   <img alt="" src="https://profile-counter.glitch.me/routerabfrage/count.svg" />
 </p>
 
-## ⚡ Programmiersprachen
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=routerabfrage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3>Verbinde dich mit mir: </h3>
+<h3>Socials: </h3>
 
 [<img align="left" alt="Webseite" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Website.svg" />][Website]
 [<img align="left" alt="Twitter" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Twitter_2012.svg" />][Twitter]
