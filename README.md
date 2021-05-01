@@ -21,17 +21,35 @@
 
 ---
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-934044%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 104 Contributions in the Year 2021
+ > 
+> 📦 43.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    66 commits     ██████░░░░░░░░░░░░░░░░░░░   26.19% 
+🌆 Daytime    121 commits    ████████████░░░░░░░░░░░░░   48.02% 
+🌃 Evening    65 commits     ██████░░░░░░░░░░░░░░░░░░░   25.79% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-JavaScript               6 hrs 46 mins       ██████████████████░░░░░░░   73.47% 
-Markdown                 2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.97% 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
 PhpStorm                 9 hrs 12 mins       █████████████████████████   100.0%
@@ -42,14 +60,7 @@ routerabfrage            1 hr                ██░░░░░░░░░�
 Apply-Bot-master         15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
-💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.0%
-
 ```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
