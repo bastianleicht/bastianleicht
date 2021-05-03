@@ -18,11 +18,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933398%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-926435%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 120 Contributions in the Year 2021
+> 🏆 125 Contributions in the Year 2021
  > 
 > 📦 43.0 kB Used in Github's Storage 
  > 
