@@ -1,20 +1,21 @@
-## Hallo, Ich bin Bastian Leicht 👋
+<h1>Hallo, Ich bin Bastian Leicht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt=""></h1>
+
+---
 [![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
 [![Website](https://img.shields.io/website?label=bastianleicht.com&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.com)](https://bastianleicht.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frouterabfrage&screen_name=bastianleicht)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=routerabfrage&style=flat-square)
 
-<p align="center"> 
-  <img alt="" src="https://profile-counter.glitch.me/routerabfrage/count.svg" />
+## Socials:
+<p align="left">
+  <a href="https://bastianleicht.de/"><img src="https://img.icons8.com/dusk/48/000000/domain.png" alt=""/></a>
+  <a href = "https://twitter.com/bastianleicht"><img src="https://img.icons8.com/cotton/48/000000/twitter.png" alt=""/></a>
+  <a href = "https://stackoverflow.com/users/13409812/bastian-leicht"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt=""/></a>
 </p>
 
-<h3>Socials: </h3>
-
-[<img align="left" alt="Webseite" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Website.svg" />][Website]
-[<img align="left" alt="Twitter" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/Twitter_2012.svg" />][Twitter]
-[<img align="left" alt="Stackoverflow" width="22px" style="margin-right: 5px;" src="https://raw.githubusercontent.com/routerabfrage/routerabfrage/master/assets/stackoverflow-512.png" />][Stackoverflow]
-<br>
+---
+<a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=routerabfrage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 ---
 <!--START_SECTION:waka-->
@@ -80,6 +81,8 @@ Unknown Project          1 min               ░░░░░░░░░░░�
     <pre>
         <img alt="GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
     </pre>
+    <br>
+    <a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=routerabfrage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 </details>
 
 <details>
@@ -103,7 +106,4 @@ Unknown Project          1 min               ░░░░░░░░░░░�
     </pre>
 </details>
 
-[Archive]: https://github.com/routerabfrageNET
 [Website]: https://bastianleicht.de/
-[Twitter]: https://twitter.com/bastianleicht
-[Stackoverflow]: https://stackoverflow.com/users/13409812/bastian-leicht
