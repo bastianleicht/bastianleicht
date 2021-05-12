@@ -67,7 +67,7 @@ Unknown Project          1 min               ░░░░░░░░░░░�
     <summary>:zap: Recent Github Activity</summary>
     <pre>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/routerabfrage/Logger-Bot/pull/2) in [routerabfrage/Logger-Bot](https://github.com/routerabfrage/Logger-Bot)
+1. 💪 Opened PR [#59](https://github.com/jamesgeorge007/github-activity-readme/pull/59) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. 🎉 Merged PR [#1](https://github.com/routerabfrage/Logger-Bot/pull/1) in [routerabfrage/Logger-Bot](https://github.com/routerabfrage/Logger-Bot)
 <!--END_SECTION:activity-->
     </pre>
