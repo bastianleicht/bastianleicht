@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
 [![Website](https://img.shields.io/website?label=bastianleicht.com&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.com)](https://bastianleicht.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frouterabfrage&screen_name=bastianleicht)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbastianleicht&screen_name=bastianleicht)
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=routerabfrage&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=2Fbastianleicht&style=flat-square)
 
 ## Socials:
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 ---
-<a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=routerabfrage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=2Fbastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 ---
 <!--START_SECTION:waka-->
@@ -77,10 +77,10 @@ untitled                 0 secs              ░░░░░░░░░░░�
 <details>
     <summary>:zap: Github Stats</summary>
     <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=routerabfrage&show_icons=true&theme=dark" />
+        <img alt="GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
     </pre>
     <br>
-    <a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=routerabfrage&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+    <a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 </details>
 
 <details>
