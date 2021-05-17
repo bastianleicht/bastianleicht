@@ -68,8 +68,8 @@ untitled                 0 secs              ░░░░░░░░░░░�
     <summary>:zap: Recent Github Activity</summary>
     <pre>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/jamesgeorge007/github-activity-readme/pull/59) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#1](https://github.com/routerabfrage/Logger-Bot/pull/1) in [routerabfrage/Logger-Bot](https://github.com/routerabfrage/Logger-Bot)
+1. 💪 Opened PR [#1](https://github.com/bastianleicht/copyrighter/pull/1) in [bastianleicht/copyrighter](https://github.com/bastianleicht/copyrighter)
+2. 💪 Opened PR [#59](https://github.com/jamesgeorge007/github-activity-readme/pull/59) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
     </pre>
 </details>
