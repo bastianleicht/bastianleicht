@@ -68,8 +68,8 @@ copyrighter              22 mins             ░░░░░░░░░░░�
     <summary>:zap: Recent Github Activity</summary>
     <pre>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/bastianleicht/copyrighter/pull/1) in [bastianleicht/copyrighter](https://github.com/bastianleicht/copyrighter)
-2. 💪 Opened PR [#59](https://github.com/jamesgeorge007/github-activity-readme/pull/59) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#1](https://github.com/bastianleicht/GriefBotDiscord/issues/1) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
+2. 💪 Opened PR [#1](https://github.com/bastianleicht/copyrighter/pull/1) in [bastianleicht/copyrighter](https://github.com/bastianleicht/copyrighter)
 <!--END_SECTION:activity-->
     </pre>
 </details>
