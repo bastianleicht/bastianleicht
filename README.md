@@ -69,7 +69,7 @@ copyrighter              22 mins             ░░░░░░░░░░░�
     <pre>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/bastianleicht/GriefBotDiscord/issues/1) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
-2. 💪 Opened PR [#1](https://github.com/bastianleicht/copyrighter/pull/1) in [bastianleicht/copyrighter](https://github.com/bastianleicht/copyrighter)
+2. ❗️ Closed issue [#1](https://github.com/bastianleicht/GriefBotDiscord/issues/1) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
 <!--END_SECTION:activity-->
     </pre>
 </details>
