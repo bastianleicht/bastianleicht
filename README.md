@@ -79,8 +79,6 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
     <pre>
         <img alt="GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
     </pre>
-    <br>
-    <a href="https://github.com/xcrexus/github-readme-activity-graph"><img alt="Necati MErt Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 </details>
 
 <details>
