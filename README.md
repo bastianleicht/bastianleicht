@@ -64,15 +64,11 @@ Unknown Project          6 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-<details>
-    <summary>:zap: Recent Github Activity</summary>
-    <pre>
+:zap: Recent Github Activity    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/bastianleicht/GriefBotDiscord/issues/1) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
 2. ❗️ Closed issue [#1](https://github.com/bastianleicht/GriefBotDiscord/issues/1) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
 <!--END_SECTION:activity-->
-    </pre>
-</details>
 
 <details>
     <summary>:zap: Github Stats</summary>
