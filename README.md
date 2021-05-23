@@ -9,8 +9,8 @@
 ## Socials:
 <p align="left">
   <a href="https://bastianleicht.de/"><img src="https://img.icons8.com/dusk/48/000000/domain.png" alt=""/></a>
-  <a href = "https://twitter.com/bastianleicht"><img src="https://img.icons8.com/cotton/48/000000/twitter.png" alt=""/></a>
-  <a href = "https://stackoverflow.com/users/13409812/bastian-leicht"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt=""/></a>
+  <a href="https://twitter.com/bastianleicht"><img src="https://img.icons8.com/cotton/48/000000/twitter.png" alt=""/></a>
+  <a href="https://stackoverflow.com/users/13409812/bastian-leicht"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt=""/></a>
 </p>
 
 ---
