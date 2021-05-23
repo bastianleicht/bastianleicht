@@ -14,7 +14,7 @@
 </p>
 
 ---
-<a href="https://github.com/bastianleicht/github-readme-activity-graph"><img alt="bastianleicht Activity Graph" src="https://github-readme-activity.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+<img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 ---
 <!--START_SECTION:waka-->
