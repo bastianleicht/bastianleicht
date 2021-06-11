@@ -64,8 +64,8 @@ bastianleicht            0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/bastianleicht/DiscordJS-Bot-Base/issues/2) in [bastianleicht/DiscordJS-Bot-Base](https://github.com/bastianleicht/DiscordJS-Bot-Base)
-2. 🗣 Commented on [#2](https://github.com/bastianleicht/DiscordJS-Bot-Base/issues/2) in [bastianleicht/DiscordJS-Bot-Base](https://github.com/bastianleicht/DiscordJS-Bot-Base)
+1. 🗣 Commented on [#1](https://github.com/gtagamermods/Djs-Moderation-Bot/issues/1) in [gtagamermods/Djs-Moderation-Bot](https://github.com/gtagamermods/Djs-Moderation-Bot)
+2. ❗️ Closed issue [#2](https://github.com/bastianleicht/DiscordJS-Bot-Base/issues/2) in [bastianleicht/DiscordJS-Bot-Base](https://github.com/bastianleicht/DiscordJS-Bot-Base)
 <!--END_SECTION:activity-->
 
 <details>
