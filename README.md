@@ -67,8 +67,8 @@ Unknown Project          9 mins              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/vicuna-io/style-guide/issues/25) in [vicuna-io/style-guide](https://github.com/vicuna-io/style-guide)
-2. 🗣 Commented on [#1](https://github.com/gtagamermods/Djs-Moderation-Bot/issues/1) in [gtagamermods/Djs-Moderation-Bot](https://github.com/gtagamermods/Djs-Moderation-Bot)
+1. 💪 Opened PR [#1](https://github.com/LIVCK/livck-api-client/pull/1) in [LIVCK/livck-api-client](https://github.com/LIVCK/livck-api-client)
+2. 🗣 Commented on [#25](https://github.com/vicuna-io/style-guide/issues/25) in [vicuna-io/style-guide](https://github.com/vicuna-io/style-guide)
 <!--END_SECTION:activity-->
 
 <details>
