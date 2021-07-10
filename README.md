@@ -1,4 +1,4 @@
-<h1>Hallo, Ich bin Bastian Leicht <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt=""></h1>
+<h1>Hallo, Ich bin Bastian Leicht <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 [![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
 [![Website](https://img.shields.io/website?label=bastianleicht.com&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.com)](https://bastianleicht.com)
