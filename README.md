@@ -6,13 +6,6 @@
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=2Fbastianleicht&style=flat-square)
 
-## Socials:
-<p align="left">
-  <a href="https://bastianleicht.de/"><img src="https://img.icons8.com/dusk/48/000000/domain.png" alt=""/></a>
-  <a href="https://twitter.com/bastianleicht"><img src="https://img.icons8.com/cotton/48/000000/twitter.png" alt=""/></a>
-  <a href="https://stackoverflow.com/users/13409812/bastian-leicht"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt=""/></a>
-</p>
-
 ---
 <img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
