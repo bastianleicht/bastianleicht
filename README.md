@@ -59,7 +59,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LIVCK/livck-api-client/pull/1) in [LIVCK/livck-api-client](https://github.com/LIVCK/livck-api-client)
+1. 💪 Opened PR [#71](https://github.com/SerenityOS/user-map/pull/71) in [SerenityOS/user-map](https://github.com/SerenityOS/user-map)
 2. 🗣 Commented on [#25](https://github.com/vicuna-io/style-guide/issues/25) in [vicuna-io/style-guide](https://github.com/vicuna-io/style-guide)
 <!--END_SECTION:activity-->
 
