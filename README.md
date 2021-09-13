@@ -60,8 +60,8 @@ help.semafora-systems.com0 secs              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/anmol098/waka-readme-stats/issues/213) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 💪 Opened PR [#71](https://github.com/SerenityOS/user-map/pull/71) in [SerenityOS/user-map](https://github.com/SerenityOS/user-map)
+1. 💪 Opened PR [#14](https://github.com/e-sites/php-mysql-mysqli-wrapper/pull/14) in [e-sites/php-mysql-mysqli-wrapper](https://github.com/e-sites/php-mysql-mysqli-wrapper)
+2. 🗣 Commented on [#213](https://github.com/anmol098/waka-readme-stats/issues/213) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 <details>
