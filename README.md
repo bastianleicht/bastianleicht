@@ -60,8 +60,8 @@ Unknown Project          11 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/e-sites/php-mysql-mysqli-wrapper/pull/14) in [e-sites/php-mysql-mysqli-wrapper](https://github.com/e-sites/php-mysql-mysqli-wrapper)
-2. 🗣 Commented on [#213](https://github.com/anmol098/waka-readme-stats/issues/213) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🗣 Commented on [#220](https://github.com/wakatime/vscode-wakatime/issues/220) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+2. 🗣 Commented on [#236](https://github.com/wakatime/vscode-wakatime/issues/236) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 
 <details>
