@@ -59,8 +59,8 @@ Unknown Project          1 min               ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/wakatime/vscode-wakatime/issues/220) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
-2. 🗣 Commented on [#236](https://github.com/wakatime/vscode-wakatime/issues/236) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
+1. 💪 Opened PR [#4366](https://github.com/PreMiD/Presences/pull/4366) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🗣 Commented on [#220](https://github.com/wakatime/vscode-wakatime/issues/220) in [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime)
 <!--END_SECTION:activity-->
 
 <details>
