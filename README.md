@@ -11,11 +11,11 @@
 
 ---
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 577 Contributions in the Year 2021
  > 
-> 📦 224.5 kB Used in Github's Storage 
+> 📦 224.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
