@@ -53,8 +53,8 @@ JSON                     32 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/fbrettnich/whmcs-supportpin-module/pull/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
-2. 🎉 Merged PR [#2](https://github.com/bastianleicht/GriefBotDiscord/pull/2) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
+1. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
+2. 💪 Opened PR [#6](https://github.com/fbrettnich/whmcs-supportpin-module/pull/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
 <!--END_SECTION:activity-->
 
 <details>
