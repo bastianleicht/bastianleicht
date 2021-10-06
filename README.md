@@ -53,8 +53,8 @@ JSON                     32 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/SerenityOS/user-map/pull/76) in [SerenityOS/user-map](https://github.com/SerenityOS/user-map)
-2. 💪 Opened PR [#4366](https://github.com/PreMiD/Presences/pull/4366) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 🎉 Merged PR [#2](https://github.com/bastianleicht/GriefBotDiscord/pull/2) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
+2. 🗣 Commented on [#2](https://github.com/bastianleicht/GriefBotDiscord/issues/2) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
 <!--END_SECTION:activity-->
 
 <details>
