@@ -53,8 +53,8 @@ Apache Config            25 mins             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/bastianleicht/GriefBotDiscord/issues/3) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
-2. 🎉 Merged PR [#3](https://github.com/bastianleicht/GriefBotDiscord/pull/3) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
+1. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
+2. 🗣 Commented on [#3](https://github.com/bastianleicht/GriefBotDiscord/issues/3) in [bastianleicht/GriefBotDiscord](https://github.com/bastianleicht/GriefBotDiscord)
 <!--END_SECTION:activity-->
 
 <details>
