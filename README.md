@@ -54,7 +54,7 @@ Git Config               2 mins              ░░░░░░░░░░░�
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
-2. 🎉 Merged PR [#1](https://github.com/bastianleicht/whmcs-supportpin-module/pull/1) in [bastianleicht/whmcs-supportpin-module](https://github.com/bastianleicht/whmcs-supportpin-module)
+2. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
 <!--END_SECTION:activity-->
 
 <details>
