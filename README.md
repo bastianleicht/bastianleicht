@@ -72,14 +72,14 @@ Git Config               9 mins              ░░░░░░░░░░░�
 </details>
 
 <details>
-    <summary>:zap: Languages</summary>
+    <summary>:zap: Languages (7 days)</summary>
     <pre>
         <img alt="Languages used (7 days)" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/b0eba8ff-2de8-4b40-929e-8c7a97a106f9.svg" height="400" />
     </pre>
 </details>
 
 <details>
-    <summary>:zap: Insgesamte Sprachen</summary>
+    <summary>:zap: Languages (All Time)</summary>
     <pre>
         <img alt="All time used Languages" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/d328c553-68a8-4426-974c-be045b324309.svg" height="400" />
     </pre>
