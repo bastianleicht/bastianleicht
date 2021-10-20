@@ -85,4 +85,11 @@ Git Config               9 mins              ░░░░░░░░░░░�
     </pre>
 </details>
 
+<details>
+    <summary>:zap: GitHub Trophy</summary>
+    <pre>
+        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastianleicht" alt="bastianleicht" /></a> </p>
+    </pre>
+</details>
+
 [Website]: https://bastianleicht.de/
