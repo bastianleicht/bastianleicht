@@ -52,7 +52,7 @@ Git Config               10 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
+1. 💪 Opened PR [#3](https://github.com/BSchleyer/redhost-panel/pull/3) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
 2. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
 <!--END_SECTION:activity-->
 
