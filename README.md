@@ -52,8 +52,8 @@ SQL                      2 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/BSchleyer/redhost-panel/pull/3) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
-2. 🗣 Commented on [#6](https://github.com/fbrettnich/whmcs-supportpin-module/issues/6) in [fbrettnich/whmcs-supportpin-module](https://github.com/fbrettnich/whmcs-supportpin-module)
+1. ❗️ Opened issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+2. 💪 Opened PR [#3](https://github.com/BSchleyer/redhost-panel/pull/3) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
 <!--END_SECTION:activity-->
 
 <details>
