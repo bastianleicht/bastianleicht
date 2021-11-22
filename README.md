@@ -52,8 +52,8 @@ SQL                      2 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/revoX-Development/Germanhostpresence/issues/1) in [revoX-Development/Germanhostpresence](https://github.com/revoX-Development/Germanhostpresence)
-2. ❗️ Opened issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+1. 🗣 Commented on [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+2. 🗣 Commented on [#1](https://github.com/revoX-Development/Germanhostpresence/issues/1) in [revoX-Development/Germanhostpresence](https://github.com/revoX-Development/Germanhostpresence)
 <!--END_SECTION:activity-->
 
 <details>
