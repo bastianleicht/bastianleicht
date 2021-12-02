@@ -11,6 +11,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2051%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 929 Contributions in the Year 2021
@@ -40,16 +42,12 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-PHP                      2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.22% 
-Bash                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.84% 
-Shell Script             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
-Apache Config            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
