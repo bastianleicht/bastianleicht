@@ -11,7 +11,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,12 +42,13 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     51 mins             ███████████████████████░░   95.15% 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
 
 ```
 
 
- Last Updated on 03/12/2021
+ Last Updated on 04/12/2021
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
