@@ -11,8 +11,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2051%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 929 Contributions in the Year 2021
@@ -50,7 +48,7 @@ Python                   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
