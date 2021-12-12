@@ -11,6 +11,8 @@
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2051%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 929 Contributions in the Year 2021
@@ -40,10 +42,7 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Java                     2 mins              ████████████░░░░░░░░░░░░░   48.84% 
-YAML                     2 mins              ████████████░░░░░░░░░░░░░   48.6% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.55% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
