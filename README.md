@@ -11,26 +11,24 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%2015%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 58 Contributions in the Year 2022
+> 🏆 63 Contributions in the Year 2022
  > 
 > 📦 492.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    196 commits    ██████░░░░░░░░░░░░░░░░░░░   23.82% 
-🌆 Daytime    351 commits    ██████████░░░░░░░░░░░░░░░   42.65% 
-🌃 Evening    276 commits    ████████░░░░░░░░░░░░░░░░░   33.54% 
+🌞 Morning    195 commits    ██████░░░░░░░░░░░░░░░░░░░   23.69% 
+🌆 Daytime    349 commits    ██████████░░░░░░░░░░░░░░░   42.41% 
+🌃 Evening    279 commits    ████████░░░░░░░░░░░░░░░░░   33.9% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -51,7 +49,7 @@ GitIgnore file           5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
