@@ -55,8 +55,8 @@ GitIgnore file           5 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#149](https://github.com/muriloventuroso/easyssh/pull/149) in [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh)
-2. 🗣 Commented on [#1](https://github.com/revoX-Development/Germanhostpresence/issues/1) in [revoX-Development/Germanhostpresence](https://github.com/revoX-Development/Germanhostpresence)
+1. ❗️ Closed issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+2. 🗣 Commented on [#149](https://github.com/muriloventuroso/easyssh/issues/149) in [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh)
 <!--END_SECTION:activity-->
 
 <details>
