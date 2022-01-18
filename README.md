@@ -55,8 +55,8 @@ GitIgnore file           5 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
-2. 🗣 Commented on [#149](https://github.com/muriloventuroso/easyssh/issues/149) in [muriloventuroso/easyssh](https://github.com/muriloventuroso/easyssh)
+1. 🗣 Commented on [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+2. ❗️ Closed issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
 <!--END_SECTION:activity-->
 
 <details>
