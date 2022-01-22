@@ -11,13 +11,11 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2031%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2022
+> 🏆 89 Contributions in the Year 2022
  > 
-> 📦 492.3 kB Used in GitHub's Storage 
+> 📦 492.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,8 +27,8 @@
 
 ```text
 🌞 Morning    202 commits    ██████░░░░░░░░░░░░░░░░░░░   24.48% 
-🌆 Daytime    343 commits    ██████████░░░░░░░░░░░░░░░   41.58% 
-🌃 Evening    280 commits    ████████░░░░░░░░░░░░░░░░░   33.94% 
+🌆 Daytime    342 commits    ██████████░░░░░░░░░░░░░░░   41.45% 
+🌃 Evening    281 commits    ████████░░░░░░░░░░░░░░░░░   34.06% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -51,7 +49,7 @@ GitIgnore file           5 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/01/2022 12:18:34 UTC
+ Last Updated on 22/01/2022 00:38:36 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
