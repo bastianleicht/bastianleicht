@@ -55,8 +55,8 @@ Apache Config            31 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
-2. ❗️ Closed issue [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
+1. 💪 Opened PR [#2](https://github.com/Schleyer-EDV/blackhost_cp/pull/2) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
+2. 🗣 Commented on [#193](https://github.com/wakatime/jetbrains-wakatime/issues/193) in [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime)
 <!--END_SECTION:activity-->
 
 <details>
