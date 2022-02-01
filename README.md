@@ -62,7 +62,7 @@ JavaScript               8 mins              ░░░░░░░░░░░�
 <details>
     <summary>:zap: Github Stats</summary>
     <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats.routerabfrage.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
+        <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
     </pre>
 </details>
 
