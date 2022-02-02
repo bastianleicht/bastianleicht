@@ -55,8 +55,8 @@ JavaScript               6 mins              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Schleyer-EDV/blackhost_cp/issues/1) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
-2. 💪 Opened PR [#2](https://github.com/Schleyer-EDV/blackhost_cp/pull/2) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
+1. 🎉 Merged PR [#1](https://github.com/bastianleicht/github-readme-activity-graph/pull/1) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
+2. 🎉 Merged PR [#2](https://github.com/bastianleicht/github-readme-activity-graph/pull/2) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
 <details>
