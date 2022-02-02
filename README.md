@@ -7,6 +7,12 @@
 [![wakatime](https://wakatime.com/badge/user/90818ae0-9ba0-4e2a-8ed8-98c30e947c50.svg)](https://wakatime.com/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50)
 
 ---
+
+**🌐 My Projects:**
+
+- [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
+
+---
 <img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 ---
