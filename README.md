@@ -1,7 +1,7 @@
 <h1>Hallo, Ich bin Bastian Leicht <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" alt=""></h1>
 
 [![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=plastic)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbastianleicht&screen_name=bastianleicht)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbastianleicht&screen_name=bastianleicht)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=2Fbastianleicht&style=flat-square)
 [![wakatime](https://wakatime.com/badge/user/90818ae0-9ba0-4e2a-8ed8-98c30e947c50.svg)](https://wakatime.com/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50)
