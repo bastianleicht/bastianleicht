@@ -17,7 +17,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,7 +57,7 @@ CSS                      25 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2022 12:20:25 UTC
+ Last Updated on 28/02/2022 18:14:52 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
