@@ -28,3 +28,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SYMBOL_VERSION: 2
