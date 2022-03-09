@@ -61,8 +61,8 @@ htaccess                 2 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bastianleicht/github-readme-activity-graph/pull/1) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
-2. 🎉 Merged PR [#2](https://github.com/bastianleicht/github-readme-activity-graph/pull/2) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
+1. 🗣 Commented on [#213](https://github.com/anmol098/waka-readme-stats/issues/213) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🎉 Merged PR [#1](https://github.com/bastianleicht/github-readme-activity-graph/pull/1) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
 <details>
