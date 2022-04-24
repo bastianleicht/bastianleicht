@@ -61,7 +61,7 @@ Text                     4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/anmol098/waka-readme-stats/issues/213) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 💪 Opened PR [#3](https://github.com/Schleyer-EDV/blackhost_cp/pull/3) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
 2. 🎉 Merged PR [#1](https://github.com/bastianleicht/github-readme-activity-graph/pull/1) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
