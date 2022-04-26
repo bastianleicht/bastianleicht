@@ -61,8 +61,8 @@ Text                     4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Schleyer-EDV/blackhost_cp/pull/3) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
-2. 🎉 Merged PR [#1](https://github.com/bastianleicht/github-readme-activity-graph/pull/1) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
+1. 💪 Opened PR [#9](https://github.com/purple-force/css-minify/pull/9) in [purple-force/css-minify](https://github.com/purple-force/css-minify)
+2. 💪 Opened PR [#3](https://github.com/Schleyer-EDV/blackhost_cp/pull/3) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
 <!--END_SECTION:activity-->
 
 <details>
