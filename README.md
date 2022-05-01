@@ -17,8 +17,6 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%202%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 1,572 Contributions in the Year 2022
@@ -57,7 +55,7 @@ CSS                      33 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 30/04/2022 12:21:36 UTC
+ Last Updated on 01/05/2022 01:16:48 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
