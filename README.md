@@ -61,8 +61,8 @@ SCSS                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/purple-force/css-minify/pull/9) in [purple-force/css-minify](https://github.com/purple-force/css-minify)
-2. 💪 Opened PR [#3](https://github.com/Schleyer-EDV/blackhost_cp/pull/3) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
+1. 🗣 Commented on [#7](https://github.com/BSchleyer/redhost-panel/issues/7) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+2. 💪 Opened PR [#9](https://github.com/purple-force/css-minify/pull/9) in [purple-force/css-minify](https://github.com/purple-force/css-minify)
 <!--END_SECTION:activity-->
 
 <details>
