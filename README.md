@@ -61,8 +61,8 @@ Shell Script             10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/bastianleicht/action-update-file/pull/5) in [bastianleicht/action-update-file](https://github.com/bastianleicht/action-update-file)
-2. 🗣 Commented on [#7](https://github.com/BSchleyer/redhost-panel/issues/7) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+1. 🗣 Commented on [#4](https://github.com/Schleyer-EDV/blackhost_cp/issues/4) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
+2. 🗣 Commented on [#4](https://github.com/Schleyer-EDV/blackhost_cp/issues/4) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
 <!--END_SECTION:activity-->
 
 <details>
