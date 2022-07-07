@@ -68,6 +68,7 @@ htaccess                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <summary>:zap: Github Stats</summary>
     <pre>
         <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastianleicht&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8b155a&ring=8b155a&stroke=FFFFFFFF)](https://git.io/streak-stats"/>
     </pre>
 </details>
 
