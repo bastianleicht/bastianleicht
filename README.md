@@ -12,6 +12,14 @@
 
 - [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
 
+
+<h4>🔗 Socials:</h4>
+<p>
+-  Discord: <a href='https://discordapp.com/users/350618993020764161'>Bastian Leicht#0001</a>
+<br>
+-  Email: <a href='mailto:info@bastianleicht.de'>info@bastianleicht.de</a>
+</p>
+
 ---
 <img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
