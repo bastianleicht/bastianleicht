@@ -39,8 +39,29 @@
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 14/09/2022 01:15:12 UTC
+```text
+🌞 Morning    246 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.98% 
+🌆 Daytime    514 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.1% 
+🌃 Evening    266 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.93% 
+🌙 Night      0 commits      ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 14/09/2022 06:48:43 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
