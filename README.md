@@ -20,6 +20,12 @@
 -  Email: <a href='mailto:info@bastianleicht.de'>info@bastianleicht.de</a>
 </p>
 
+<p align="center">
+<a href="https://discord.com/users/350618993020764161">
+<img src="https://discord.c99.nl/widget/theme-4/350618993020764161.png" alt="Bastian Leicht - Discord">
+</a>
+</p>
+
 ---
 <img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
