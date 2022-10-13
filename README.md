@@ -75,7 +75,7 @@ htaccess                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Schleyer-EDV/blackhost_cp/issues/4) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
+1. 💪 Opened PR [#1382](https://github.com/jdm-contrib/jdm/pull/1382) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
 2. 🗣 Commented on [#4](https://github.com/Schleyer-EDV/blackhost_cp/issues/4) in [Schleyer-EDV/blackhost_cp](https://github.com/Schleyer-EDV/blackhost_cp)
 <!--END_SECTION:activity-->
 
