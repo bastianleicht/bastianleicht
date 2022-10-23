@@ -75,8 +75,8 @@ Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1382](https://github.com/jdm-contrib/jdm/issues/1382) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-2. 💪 Opened PR [#1382](https://github.com/jdm-contrib/jdm/pull/1382) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+1. 💪 Opened PR [#1](https://github.com/dariusaurich/nexosystems-api/pull/1) in [dariusaurich/nexosystems-api](https://github.com/dariusaurich/nexosystems-api)
+2. 🗣 Commented on [#1382](https://github.com/jdm-contrib/jdm/issues/1382) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
 <!--END_SECTION:activity-->
 
 <details>
