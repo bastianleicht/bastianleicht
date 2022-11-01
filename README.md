@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://discord.com/users/350618993020764161">
-<img src="https://discord.c99.nl/widget/theme-4/350618993020764161.png" alt="Bastian Leicht - Discord">
+<img src="https://discord.bastianleicht.de/widget/theme-1/350618993020764161.png" alt="Bastian Leicht - Discord">
 </a>
 </p>
 
