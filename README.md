@@ -75,8 +75,8 @@ Markdown                 1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dariusaurich/nexosystems-api/pull/1) in [dariusaurich/nexosystems-api](https://github.com/dariusaurich/nexosystems-api)
-2. 🗣 Commented on [#1382](https://github.com/jdm-contrib/jdm/issues/1382) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+1. 🎉 Merged PR [#15](https://github.com/BSchleyer/redhost-panel/pull/15) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+2. 💪 Opened PR [#1](https://github.com/dariusaurich/nexosystems-api/pull/1) in [dariusaurich/nexosystems-api](https://github.com/dariusaurich/nexosystems-api)
 <!--END_SECTION:activity-->
 
 <details>
