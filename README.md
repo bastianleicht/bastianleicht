@@ -13,6 +13,7 @@
 ## Projects:
 
 - [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
+- [Discord Status Banners](https://discord.bastianleicht.de)  (released at: 11.08.2022)
 
 
 ## Connect with me  
