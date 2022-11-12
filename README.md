@@ -1,25 +1,36 @@
-<h1>Hallo, Ich bin Bastian Leicht <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" height="30px" alt=""></h1>
+<h1>I'm Bastian, a self-taught web developer/full-stack programmer <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" height="30px" alt=""></h1>
 
-[![Website](https://img.shields.io/website?label=bastianleicht.de&style=for-the-badge&url=https%3A%2F%2Fbastianleicht.de)](https://bastianleicht.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bastianleicht?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbastianleicht&screen_name=bastianleicht)
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=2Fbastianleicht&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/90818ae0-9ba0-4e2a-8ed8-98c30e947c50.svg)](https://wakatime.com/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50)
+<br/>  
 
----
+🔭 I’m currently working on: 
+- [Discord Status Banners](https://discord.bastianleicht.de)  
+  
 
-**🌐 My Projects:**
+🌱 Stuff that i’m currently learning: 
+- [Ansible](https://docs.ansible.com/)  
+
+
+## Projects:
 
 - [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
 
 
-<h4>🔗 Socials:</h4>
-<p>
--  Discord: <a href='https://discordapp.com/users/350618993020764161'>Bastian Leicht#0001</a>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/bastianleicht" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/bastianleicht" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/bastianleicht" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/13409812/bastian-leicht" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>
 <br>
--  Email: <a href='mailto:info@bastianleicht.de'>info@bastianleicht.de</a>
-</p>
-
 <p align="center">
 <a href="https://discord.com/users/350618993020764161">
 <img src="https://discord.bastianleicht.de/widget/theme-1/350618993020764161.png" alt="Bastian Leicht - Discord">
@@ -113,5 +124,7 @@ HTML                     18 mins             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
         <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bastianleicht" alt="bastianleicht" /></a> </p>
     </pre>
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=2Fbastianleicht&style=flat-square)
 
 [Website]: https://bastianleicht.de/
