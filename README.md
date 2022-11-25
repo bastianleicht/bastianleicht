@@ -43,7 +43,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,13 +74,15 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-PHP                      9 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.95% 
-GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.05%
+PHP                      13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.64% 
+HTML                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.03% 
+JavaScript               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.3% 
+GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.03%
 
 ```
 
 
- Last Updated on 25/11/2022 01:01:26 UTC
+ Last Updated on 25/11/2022 06:16:43 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
