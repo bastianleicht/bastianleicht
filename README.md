@@ -74,14 +74,12 @@
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-PHP                      13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   98.67% 
-HTML                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.03% 
-JavaScript               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.3%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/12/2022 00:57:52 UTC
+ Last Updated on 02/12/2022 06:15:40 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
