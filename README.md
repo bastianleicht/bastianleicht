@@ -7,7 +7,8 @@
   
 
 🌱 Stuff that i’m currently learning: 
-- [Ansible](https://docs.ansible.com/)  
+- [Ansible](https://docs.ansible.com/)
+- [Zend](https://framework.zend.com/learn.html)
 
 
 ## Projects:
