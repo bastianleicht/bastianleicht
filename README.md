@@ -31,16 +31,13 @@
 <a href="https://stackoverflow.com/users/13409812/bastian-leicht" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.com/users/350618993020764161" target="_blank">
+<img src=https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
+</a>  
 </div>
-<br>
-<p align="center">
-<a href="https://discord.com/users/350618993020764161">
-<img src="https://discord.bastianleicht.de/widget/theme-1/350618993020764161.png" alt="Bastian Leicht - Discord">
-</a>
-</p>
 
 ---
-<img alt="bastianleicht Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<img alt="bastianleicht Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 ---
 <!--START_SECTION:waka-->
