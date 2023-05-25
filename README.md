@@ -41,13 +41,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 608.7 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2023
+> 🏆 198 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,9 +58,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1604 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.96 % 
-🌆 Daytime                4999 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.74 % 
-🌃 Evening                3441 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.24 % 
+🌞 Morning                1604 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.95 % 
+🌆 Daytime                4999 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.71 % 
+🌃 Evening                3447 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.28 % 
 🌙 Night                  6 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 % 
 ```
 
@@ -75,7 +75,7 @@ PHP                      2 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 25/05/2023 12:21:16 UTC
+ Last Updated on 25/05/2023 18:14:05 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
