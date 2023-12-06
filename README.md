@@ -79,7 +79,7 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/BSchleyer/redhost-panel/pull/21) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+1. 🗣 Commented on [#54](https://github.com/belaviyo/keepass-macpass-helper/issues/54) in [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper)
 2. 🎉 Merged PR [#25](https://github.com/bastianleicht/github-readme-activity-graph/pull/25) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
