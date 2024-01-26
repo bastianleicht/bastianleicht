@@ -37,7 +37,7 @@
 </div>
 
 ---
-<img alt="bastianleicht Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<img alt="bastianleicht Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bastianleicht&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 ---
 <!--START_SECTION:waka-->
@@ -87,7 +87,6 @@ No Activity Tracked This Week
     <summary>:zap: Github Stats</summary>
     <pre>
         <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastianleicht&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=8b155a&ring=8b155a&stroke=FFFFFFFF)](https://git.io/streak-stats"/>
     </pre>
 </details>
 
