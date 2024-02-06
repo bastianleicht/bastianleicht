@@ -79,7 +79,7 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/belaviyo/keepass-macpass-helper/issues/54) in [belaviyo/keepass-macpass-helper](https://github.com/belaviyo/keepass-macpass-helper)
+1. 💪 Opened PR [#4615](https://github.com/AppFlowy-IO/AppFlowy/pull/4615) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 2. 🎉 Merged PR [#25](https://github.com/bastianleicht/github-readme-activity-graph/pull/25) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
 <!--END_SECTION:activity-->
 
