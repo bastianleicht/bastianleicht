@@ -79,8 +79,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4615](https://github.com/AppFlowy-IO/AppFlowy/pull/4615) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
-2. 🎉 Merged PR [#25](https://github.com/bastianleicht/github-readme-activity-graph/pull/25) in [bastianleicht/github-readme-activity-graph](https://github.com/bastianleicht/github-readme-activity-graph)
+1. 💪 Opened PR [#1944](https://github.com/netbox-community/devicetype-library/pull/1944) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+2. 💪 Opened PR [#4615](https://github.com/AppFlowy-IO/AppFlowy/pull/4615) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 <!--END_SECTION:activity-->
 
 <details>
