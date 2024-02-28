@@ -71,12 +71,11 @@
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-YAML                     1 hr 13 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.98 % 
-Markdown                 1 min               ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.02 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/02/2024 00:47:41 UTC
+ Last Updated on 28/02/2024 06:16:59 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
