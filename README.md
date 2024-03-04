@@ -81,8 +81,8 @@ Markdown                 0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1956](https://github.com/netbox-community/devicetype-library/pull/1956) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 💪 Opened PR [#1944](https://github.com/netbox-community/devicetype-library/pull/1944) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+1. ❗️ Closed issue [#2](https://github.com/bastianleicht/jugend-among-us-game/issues/2) in [bastianleicht/jugend-among-us-game](https://github.com/bastianleicht/jugend-among-us-game)
+2. ❗️ Closed issue [#1](https://github.com/bastianleicht/jugend-among-us-game/issues/1) in [bastianleicht/jugend-among-us-game](https://github.com/bastianleicht/jugend-among-us-game)
 <!--END_SECTION:activity-->
 
 <details>
