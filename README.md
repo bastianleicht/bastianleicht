@@ -83,8 +83,8 @@ YAML                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/bastianleicht/jugend-among-us-game/issues/2) in [bastianleicht/jugend-among-us-game](https://github.com/bastianleicht/jugend-among-us-game)
-2. ❗️ Closed issue [#1](https://github.com/bastianleicht/jugend-among-us-game/issues/1) in [bastianleicht/jugend-among-us-game](https://github.com/bastianleicht/jugend-among-us-game)
+1. ❗️ Closed issue [#2](https://github.com/bastianleicht/discord-status-banner/issues/2) in [bastianleicht/discord-status-banner](https://github.com/bastianleicht/discord-status-banner)
+2. ❗️ Closed issue [#3](https://github.com/bastianleicht/discord-status-banner/issues/3) in [bastianleicht/discord-status-banner](https://github.com/bastianleicht/discord-status-banner)
 <!--END_SECTION:activity-->
 
 <details>
