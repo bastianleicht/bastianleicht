@@ -78,8 +78,8 @@ JSON                     11 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2088](https://github.com/netbox-community/devicetype-library/pull/2088) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 💪 Opened PR [#2088](https://github.com/netbox-community/devicetype-library/pull/2088) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+1. 💪 Opened PR [#2089](https://github.com/netbox-community/devicetype-library/pull/2089) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+2. ❌ Closed PR [#2088](https://github.com/netbox-community/devicetype-library/pull/2088) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 <!--END_SECTION:activity-->
 
 <details>
