@@ -83,8 +83,8 @@ GitIgnore file           0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2089](https://github.com/netbox-community/devicetype-library/issues/2089) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 💪 Opened PR [#2089](https://github.com/netbox-community/devicetype-library/pull/2089) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+1. 💪 Opened PR [#2102](https://github.com/netbox-community/devicetype-library/pull/2102) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+2. 🗣 Commented on [#2089](https://github.com/netbox-community/devicetype-library/issues/2089) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 <!--END_SECTION:activity-->
 
 <details>
