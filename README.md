@@ -81,7 +81,7 @@ JSON                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/tbotnz/netbox_floorplan/issues/26) in [tbotnz/netbox_floorplan](https://github.com/tbotnz/netbox_floorplan)
+1. 💪 Opened PR [#2111](https://github.com/netbox-community/devicetype-library/pull/2111) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 2. 🗣 Commented on [#26](https://github.com/tbotnz/netbox_floorplan/issues/26) in [tbotnz/netbox_floorplan](https://github.com/tbotnz/netbox_floorplan)
 <!--END_SECTION:activity-->
 
