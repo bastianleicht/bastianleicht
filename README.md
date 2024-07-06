@@ -41,7 +41,7 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/07/2024 18:18:31 UTC
+ Last Updated on 06/07/2024 00:54:39 UTC
 <!--END_SECTION:waka-->
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
