@@ -1,29 +1,8 @@
 <h1>I'm Bastian, a self-taught web developer/full-stack programmer <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" height="30px" alt=""></h1>
 
-<br/>  
-
-
-### GitHub Stats
-
 <p align="left"><img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg" /></p>
 
-
-🔭 I’m currently working on: 
-- [Discord Status Banners](https://discord.bastianleicht.de)  
-  
-
-🌱 Stuff that i’m currently learning: 
-- [Ansible](https://docs.ansible.com/)
-- [Zend](https://framework.zend.com/learn.html)
-
-
-## Projects:
-
-- [ExpanseHost](https://expansehost.de) (released at: 02.02.2022)
-- [Discord Status Banners](https://discord.bastianleicht.de)  (released at: 11.08.2022)
-
-
-## Connect with me  
+## Socials
 <div align="center">
 <a href="https://github.com/bastianleicht" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -42,18 +21,15 @@
 </a>  
 </div>
 
+🌱 Stuff that i’m currently learning: 
+- [Ansible](https://docs.ansible.com/)
+- [Zend](https://framework.zend.com/learn.html)
+
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2170](https://github.com/netbox-community/devicetype-library/pull/2170) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 2. 🗣 Commented on [#26](https://github.com/tbotnz/netbox_floorplan/issues/26) in [tbotnz/netbox_floorplan](https://github.com/tbotnz/netbox_floorplan)
 <!--END_SECTION:activity-->
-
-<details>
-    <summary>:zap: Github Stats</summary>
-    <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bastianleicht&show_icons=true&theme=dark" />
-    </pre>
-</details>
 
 <details>
     <summary>:zap: Code Activity</summary>
