@@ -5,7 +5,7 @@
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg" /></p>
 
 
 🔭 I’m currently working on: 
