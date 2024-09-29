@@ -1,8 +1,6 @@
 <h1>I'm Bastian, a self-taught web developer/full-stack programmer <img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/master/assets/wave.gif" width="30px" height="30px" alt=""></h1>
 
-<p align="left"><img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg" /></p>
-
-## Socials
+### Socials
 <div align="center">
 <a href="https://github.com/bastianleicht" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -20,6 +18,9 @@
 <img src=https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
 </a>  
 </div>
+
+### GitHub Stats
+<p align="left"><img src="https://raw.githubusercontent.com/bastianleicht/bastianleicht/refs/heads/master/github-metrics.svg" /></p>
 
 🌱 Stuff that i’m currently learning: 
 - [Ansible](https://docs.ansible.com/)
