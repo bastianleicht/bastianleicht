@@ -28,8 +28,8 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2434](https://github.com/netbox-community/devicetype-library/pull/2434) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 🗣 Commented on [#26](https://github.com/tbotnz/netbox_floorplan/issues/26) in [tbotnz/netbox_floorplan](https://github.com/tbotnz/netbox_floorplan)
+1. 🗣 Commented on [#23](https://github.com/BSchleyer/redhost-panel/issues/23) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+2. 🗣 Commented on [#23](https://github.com/BSchleyer/redhost-panel/issues/23) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
 <!--END_SECTION:activity-->
 
 <details>
