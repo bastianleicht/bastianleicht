@@ -28,7 +28,7 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/BSchleyer/redhost-panel/issues/23) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
+1. 🗣 Commented on [#977](https://github.com/flobz/psa_car_controller/issues/977) in [flobz/psa_car_controller](https://github.com/flobz/psa_car_controller)
 2. 🗣 Commented on [#23](https://github.com/BSchleyer/redhost-panel/issues/23) in [BSchleyer/redhost-panel](https://github.com/BSchleyer/redhost-panel)
 <!--END_SECTION:activity-->
 
