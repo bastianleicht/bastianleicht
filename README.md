@@ -28,8 +28,8 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#977](https://github.com/flobz/psa_car_controller/issues/977) in [flobz/psa_car_controller](https://github.com/flobz/psa_car_controller)
-2. 🗣 Commented on [#977](https://github.com/flobz/psa_car_controller/issues/977) in [flobz/psa_car_controller](https://github.com/flobz/psa_car_controller)
+1. ❌ Closed PR [#6](https://github.com/bastianleicht/PWPAddon/pull/6) in [bastianleicht/PWPAddon](https://github.com/bastianleicht/PWPAddon)
+2. ❌ Closed PR [#7](https://github.com/bastianleicht/PWPAddon/pull/7) in [bastianleicht/PWPAddon](https://github.com/bastianleicht/PWPAddon)
 <!--END_SECTION:activity-->
 
 <details>
