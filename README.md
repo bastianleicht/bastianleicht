@@ -28,8 +28,8 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/bastianleicht/PWPAddon/pull/6) in [bastianleicht/PWPAddon](https://github.com/bastianleicht/PWPAddon)
-2. ❌ Closed PR [#7](https://github.com/bastianleicht/PWPAddon/pull/7) in [bastianleicht/PWPAddon](https://github.com/bastianleicht/PWPAddon)
+1. 💪 Opened PR [#2936](https://github.com/netbox-community/devicetype-library/pull/2936) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+2. ❌ Closed PR [#6](https://github.com/bastianleicht/PWPAddon/pull/6) in [bastianleicht/PWPAddon](https://github.com/bastianleicht/PWPAddon)
 <!--END_SECTION:activity-->
 
 <details>
