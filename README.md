@@ -28,8 +28,8 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3224](https://github.com/netbox-community/devicetype-library/pull/3224) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 💪 Opened PR [#3223](https://github.com/netbox-community/devicetype-library/pull/3223) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+1. 💪 Opened PR [#3226](https://github.com/netbox-community/devicetype-library/pull/3226) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+2. 🗣 Commented on [#3026](https://github.com/netbox-community/devicetype-library/issues/3026) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 <!--END_SECTION:activity-->
 
 <details>
