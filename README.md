@@ -28,7 +28,7 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3592](https://github.com/netbox-community/devicetype-library/pull/3592) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+1. ❌ Merged PR [#21](https://github.com/NetTech2001/netbox-interface-synchronization/pull/21) in [NetTech2001/netbox-interface-synchronization](https://github.com/NetTech2001/netbox-interface-synchronization)
 2. 🗣 Commented on [#3026](https://github.com/netbox-community/devicetype-library/issues/3026) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 <!--END_SECTION:activity-->
 
