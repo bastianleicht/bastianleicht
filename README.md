@@ -28,7 +28,7 @@
 
 :zap: Recent Github Activity    
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2820](https://github.com/fork-dev/TrackerWin/issues/2820) in [fork-dev/TrackerWin](https://github.com/fork-dev/TrackerWin)
+1. 🗣 Commented on [#855](https://github.com/PatchMon/PatchMon/issues/855) in [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon)
 2. 🗣 Commented on [#3026](https://github.com/netbox-community/devicetype-library/issues/3026) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
 <!--END_SECTION:activity-->
 
